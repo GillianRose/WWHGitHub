@@ -1,0 +1,5 @@
+#this file is about how to set up a hithub
+#first,log on the website https://github.com/ and then register an account
+#second,click the set up Git link, and now you will redirect to a site,you can get you own github step by step following the tips the site tell you
+
+#notice,maybe if you follow the tips,you will have this problem,you could be told your version is older than it on the server, and now you must pull the hit the command is 'git pull https://..../username/hitname master',and then you can push your own file to the server.
